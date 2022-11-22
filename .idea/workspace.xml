@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3df47766-bd0d-44d8-9d5e-755754b7705f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -171,6 +172,10 @@
       <workItem from="1597913885295" duration="3608000" />
       <workItem from="1597926677271" duration="1337000" />
       <workItem from="1597931512984" duration="22000" />
+      <workItem from="1641675663845" duration="16000" />
+      <workItem from="1641677132106" duration="69000" />
+      <workItem from="1664282509194" duration="736000" />
+      <workItem from="1666608817497" duration="3205000" />
     </task>
     <servers />
   </component>
@@ -181,40 +186,9 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594816758465">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1666612706799">
+      <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1594816758465" />
-    <state x="604" y="337" key="NewPhpFileDialog" timestamp="1591270298816">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="604" y="337" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1591270298816" />
-    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1596719375792">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1596719375792" />
-    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1593430246834" />
-    <state x="1920" y="0" width="1217" height="735" key="dock-window-1" timestamp="1596968066579">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="1920" y="0" width="1217" height="735" maximized="true" key="dock-window-1/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1596812753037" />
-    <state x="1920" y="0" width="1217" height="735" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1596968066579" />
-    <state x="2182" y="130" width="1217" height="735" key="dock-window-2" timestamp="1596812753037">
-      <screen x="1920" y="0" width="1280" height="680" />
-    </state>
-    <state x="2182" y="130" width="1217" height="735" key="dock-window-2/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1596812753037" />
-    <state x="688" y="25" width="774" height="799" key="find.popup" timestamp="1597931531139">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="688" y="25" width="774" height="799" key="find.popup/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1597931531139" />
-    <state x="332" y="-13" width="774" height="799" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1597229894473" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1596555321870">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1596555321870" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1591293632221">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1591293632221" />
+    <state x="431" y="137" width="672" height="678" key="search.everywhere.popup/0.0.1536.816/-1920.0.1920.1152@0.0.1536.816" timestamp="1666612706799" />
   </component>
 </project>
